@@ -24,7 +24,6 @@ def sort_on(items):
     return items['num']
 
 def sorted_dictionary(characters: dict):
-    #print(characters)
     new_list = []
 
     for i in characters:
